@@ -1,0 +1,1 @@
+./build_image --board=rpi4 --noenable_rootfs_verification
