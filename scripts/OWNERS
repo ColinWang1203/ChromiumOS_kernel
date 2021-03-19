@@ -1,5 +1,0 @@
-per-file update_kernel.sh = file:/OWNERS.kernel
-# remote_access.sh is mostly used by update_kernel.sh.
-per-file remote_access.sh = file:/OWNERS.kernel
-
-include chromiumos/chromite:/OWNERS.build
